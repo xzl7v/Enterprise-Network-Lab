@@ -6,6 +6,7 @@ This is an ongoing networking lab built using Cisco Packet Tracer to develop and
 The project focuses on network topology design, VLAN segmentation, IP addressing, and interconnected network devices.
 
 ## Network Topology
+![Network Topology](Network-Topology.png)
 The current topology includes:
 - 2 Routers
 - Multiple Layer 2 and Layer 3 switches
